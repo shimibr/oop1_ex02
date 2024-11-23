@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/y_b/targil_2/oop1_ex02/out/build/x64-Debug/CMakeFiles/oop1_ex02.dir/embed.manifest"

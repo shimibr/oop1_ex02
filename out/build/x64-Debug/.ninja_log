@@ -1,0 +1,6 @@
+# ninja log v5
+12	46	0	C:/y_b/targil_2/oop1_ex02/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	64e9a8a02ee1ecd2
+6838	7226	7539250880327275	oop1_ex02.exe	64233e18178c7320
+46	6838	7539250877111963	CMakeFiles/oop1_ex02.dir/src/main.cpp.obj	cff8de948208e7d
+69	1446	7539169260652510	CMakeFiles/oop1_ex02.dir/src/io.cpp.obj	7c6a695ae50f186e
+51	285	7540848993443606	build.ninja	ed14598cfa5ab14e
